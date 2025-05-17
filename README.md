@@ -10,7 +10,7 @@ A simple Node.js + Vercel Serverless Function that returns a **random resume** i
 
 </br>
 
-👉 [Click to Try It](https://resume-api-xi.vercel.app/api/resume)
+👉 [Click to Try It](https://portfolio-api-vercel-kappa.vercel.app/api/resume)
 
 </br>
 
